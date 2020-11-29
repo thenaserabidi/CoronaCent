@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1023351870617",
+    "firebase_url": "https://tammeni-77400.firebaseio.com",
+    "project_id": "tammeni-77400",
+    "storage_bucket": "tammeni-77400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023351870617:android:204f29c8b4259d3a7a1408",
+        "android_client_info": {
+          "package_name": "com.v1.Tammeni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023351870617-b248hrr70kvfhqkalt7ho46ro7hmgbbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFAumgWUkcT6NGBk7Cf7CTpqPjsI2Cx1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023351870617-b248hrr70kvfhqkalt7ho46ro7hmgbbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
